@@ -11,7 +11,7 @@ Here we work with an anoymized [dataset](https://www.kaggle.com/datasets/fedesor
 - Building a Classifier
 
 ### Summary: 
-After performing an exploratory data analysis and cleaning of the the data, features were selected using a logistic regression model with L1 regularization. These features were subsequently used with a KNN classifier to develop a model that acheived **~84% accuracy for predicting heart disease**. 
+After performing an exploratory data analysis and cleaning of the the data, features were selected using a logistic regression model with L1 regularization. These features were subsequently used with a KNN classifier to develop a model that achieved **~84% accuracy for predicting heart disease**. 
 
 ### Potential Improvements:
 - The datasets have a significantly higher number of male patients than female ones. This imbalance could present a bias in our dataset and it potentially impacts our model. 
